@@ -143,5 +143,12 @@ img {
         width: 100%;
       }
 
+    .text{
+        padding: 0 0 10px;
+    }
+
+    .img{
+        margin: 0 0 50px;
+    }
  
  }
