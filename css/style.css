@@ -138,4 +138,10 @@ img {
     .row{
         display: block;
     }
+
+    .why-us .col-right,.why-us .col-left,.steps .col,.lessons .col {
+        width: 100%;
+      }
+
+ 
  }
