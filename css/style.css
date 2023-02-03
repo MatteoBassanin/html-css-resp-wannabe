@@ -150,5 +150,12 @@ img {
     .img{
         margin: 0 0 50px;
     }
- 
+    
+    .col-left{
+        padding-bottom: 60px;
+    }
+
+    .card{
+        padding-bottom: 30px;
+    }
  }
